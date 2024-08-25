@@ -1,34 +1,39 @@
-- 👋 Hi, I’m @DoxtorDoz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Antonio G.
+- 👀 I’m interested in multi-platform app development
+- 🌱 I’m currently learning Dart, Flutter & Firebase
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-## Skills
-
 ### Programming Languages
-
 - Java
-- Swift & SwiftUI
-- JS
+- Swift
+- Javascript
 - C#
 - Python
-
-### Web Technologies
-
+- Dart
+- SQL
 - HTML
 - CSS
-- Node.js
-- Angular TS
+- Bash
 
-### Databases
-
-- SQL
-- PostgreSQL
-
-### Other Technologies
-
+### Tools
+- Visual Studio Code
+- XCode
+- Eclipse
+- Selenium
+- Postman
+- Visual Paradigm
+- Postgre
 - Docker
+- POSTGRESQL
+- SQLite
+
+### Libraries and frameworks
+- Angular
+- Flutter
+- Swift UI
+- JUnit
+- SPRING
 
 <!---
 DoxtorDoz/DoxtorDoz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
